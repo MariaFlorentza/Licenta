@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">LICENTA3</string>
+    <string name="e_mail">E-mail</string>
+    <string name="parola">Parola</string>
+    <string name="logare">Logare</string>
+    <string name="nu_ai_cont">Nu ai cont?</string>
+    <string name="inregistreaza_te">Inregistreaza-te</string>
+    <string name="ai_uitat_parola">Ai uitat parola?</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="tipuri_masina">
+        <item>Autoturism</item>
+        <item>Autoturism mixt</item>
+        <item>Motocicleta</item>
+        <item>Autocamion</item>
+        <item>Autoutilitara</item>
+        <item>Remorca/semiremorca</item>
+    </string-array>
+
+    <string-array name="marca_masina">
+        <item>Acura</item>
+        <item>Aixam</item>
+        <item>Alfa Romeo</item>
+        <item>Aro</item>
+        <item>Aston Martin</item>
+        <item>Audi</item>
+        <item>Bentley</item>
+        <item>BMW</item>
+        <item>Buick</item>
+        <item>Bugatti</item>
+        <item>Cadillac</item>
+        <item>Chaika</item>
+        <item>Chevrolet</item>
+        <item>Citroen</item>
+        <item>Dacia</item>
+        <item>Daewoo</item>
+        <item>Daihatsu</item>
+        <item>Daimler Chrysler</item>
+        <item>Dodge</item>
+        <item>Eagle</item>
+        <item>EMW</item>
+        <item>Ferrari</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Fiat</item>
+        <item>General Motors</item>
+        <item>GMC</item>
+        <item>Holden</item>
+        <item>Honda</item>
+        <item>Hummer</item>
+        <item>Hyundai</item>
+        <item>Infiniti</item>
+        <item>Jaguar</item>
+        <item>Jeep</item>
+        <item>Kia</item>
+        <item>Lada</item>
+        <item>Lamborghini</item>
+        <item>Lancia</item>
+        <item>Land Rover</item>
+        <item>Lexus</item>
+        <item>Ligier</item>
+        <item>Maserati</item>
+        <item>Mazda</item>
+        <item>Mercedes-Benz</item>
+        <item>Mercury</item>
+        <item>Mitsubishi</item>
+        <item>Mini</item>
+        <item>Morgan</item>
+        <item>Nissan</item>
+        <item>Opel</item>
+        <item>Peugeot</item>
+        <item>Porsche</item>
+        <item>Range Rover</item>
+        <item>Renault</item>
+        <item>REVA</item>
+        <item>Rolls-Royce</item>
+        <item>Rover</item>
+        <item>Seat</item>
+        <item>Skoda</item>
+        <item>Smart</item>
+        <item>Subaru</item>
+        <item>Suzuki</item>
+        <item>Tesla</item>
+        <item>Toyota</item>
+        <item>Trabant</item>
+        <item>Volga</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+
+    </string-array>
+
+    <string-array name="model_masina">
+
+
+        <item>A4</item>
+        <item>A6</item>
+        <item>Q7</item>
+
+
+<!--    <string-array name="model_masina_bentley">-->
+<!--        <item>Arnage</item>-->
+<!--        <item>Azure</item>-->
+<!--        <item>Brooklands</item>-->
+<!--        <item>Continental</item>-->
+<!--        <item>Eight</item>-->
+<!--        <item>Mulsanne</item>-->
+<!--        <item>Turbo R</item>-->
+<!--        <item>Turbo RT</item>-->
+<!--        <item>Turbo S</item>-->
+<!--    </string-array>-->
+
+    </string-array>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
